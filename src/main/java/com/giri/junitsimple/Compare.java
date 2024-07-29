@@ -1,4 +1,4 @@
-package com.giri.JunitSimple;
+package com.giri.junitsimple;
 
 public class Compare {
 	

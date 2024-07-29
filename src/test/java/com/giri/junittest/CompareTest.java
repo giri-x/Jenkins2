@@ -1,9 +1,11 @@
-package com.giri.JunitSimple;
+package com.giri.junittest;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 
 import org.junit.jupiter.api.Test;
+
+import com.giri.junitsimple.Compare;
 
 class CompareTest {
 
