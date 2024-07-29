@@ -5,15 +5,15 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class CompareTest2 {
+class CompareTest {
 
 	@Test
 	void testCompareString() {
-		assertTrue(Compare.CompareString("kee", "kee"));
+		assertTrue(Compare.compareString("kee", "kee"));
 	}
 	@Test
 	void testCompareString1() {
-		assertFalse(Compare.CompareString("Keer", "kee"));
+		assertFalse(Compare.compareString("Keer", "kee"));
 	}
 
 }
