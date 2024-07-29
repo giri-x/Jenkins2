@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.giri</groupId>
-  <artifactId>junitsimple</artifactId>
+  <artifactId>JunitSimple</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>junitsimple</name>
+  <name>JunitSimple</name>
   <url>http://maven.apache.org</url>
 
   <properties>
